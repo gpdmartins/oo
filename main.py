@@ -1,16 +1,13 @@
-# This is a sample Python script.
+def cria_conta(numero, titular, saldo, limite):
+    conta = {"numero":numero, "titular": titular, "saldo": saldo, "limite":limite}
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+    return conta
 
+def deposita(conta, valor):
+    conta["saldo"] += valor
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def saca(conta, valor):
+    conta["saldo"] -= valor
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+def extrato(conta):
+    print("Saldo: {}" .format(conta["saldo"]))
