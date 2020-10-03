@@ -175,20 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601646871945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="super()&#10;Generalização/especialização&#10;Herança">
+      <created>1601663593401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601663593401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="getters setters" />
     <MESSAGE value="@property and Setters" />
     <MESSAGE value="modelo oo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="modelo oo 2" />
+    <MESSAGE value="super()&#10;Generalização/especialização&#10;Herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="super()&#10;Generalização/especialização&#10;Herança" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1601646870933">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1601663592386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601646870933" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601663592386" />
     <state x="838" y="423" key="Github.ShareDialog" timestamp="1601556204739">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -197,21 +205,21 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="830" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601556217574" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1601663367780">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1601665196016">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601663367780" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1601663367779">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601665196016" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1601665196015">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601663367779" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1601663367779">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601665196015" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1601665196015">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601663367779" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1601663367780">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601665196015" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1601665196016">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601663367780" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601665196016" />
   </component>
 </project>
